@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df70a9a3-03cf-4667-ac43-e3ecd78b21e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/src/main/java/com/itheima/App2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/src/main/java/com/itheima/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/src/main/java/com/itheima/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/src/main/java/com/itheima/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/src/main/java/com/itheima/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/target/classes/com/itheima/App2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/target/classes/com/itheima/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/target/classes/com/itheima/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/target/classes/com/itheima/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring01_quickstart_DI/target/classes/com/itheima/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/src/main/java/com/itheima/AppForName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/src/main/java/com/itheima/AppForScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/src/main/java/com/itheima/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/src/main/java/com/itheima/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/src/main/java/com/itheima/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/src/main/java/com/itheima/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/target/classes/com/itheima/AppForName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/target/classes/com/itheima/AppForScope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/target/classes/com/itheima/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/target/classes/com/itheima/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/target/classes/com/itheima/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring02_base_config/target/classes/com/itheima/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/AppForInstanceBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/AppForInstanceOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/AppForInstanceUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/dao/impl/OrderDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/factory/OrderDaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/factory/UserDaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/factory/UserDaoFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/java/com/itheima/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/AppForInstanceBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/AppForInstanceOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/AppForInstanceUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/factory/OrderDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/factory/UserDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/factory/UserDaoFactoryBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring03_bean_existance/target/classes/com/itheima/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/AppForLifeCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/dao/impl/OrderDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/factory/OrderDaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/factory/UserDaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/factory/UserDaoFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/java/com/itheima/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/AppForLifeCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/factory/OrderDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/factory/UserDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/factory/UserDaoFactoryBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring04_life_circle/target/classes/com/itheima/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring05_DI_set/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring06_DI_constructor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring07_DI_autoware/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring07_DI_autoware/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring07_DI_autoware/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring07_DI_autoware/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring07_DI_autoware/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring07_DI_autoware/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring07_DI_autoware/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring07_DI_autoware/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring08_DI_collection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/AppSystemProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring10_container/ear/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring10_container/ejbs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring10_container/ejbs/src/main/resources/META-INF/ejb-jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring10_container/primary-source/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring10_container/projects/logging/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring10_container/projects/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring10_container/servlets/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring10_container/servlets/servlet/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring10_container/servlets/servlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring10_container/servlets/servlet/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/src/main/java/com/itheima/App2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/src/main/java/com/itheima/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/src/main/java/com/itheima/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/src/main/java/com/itheima/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/src/main/java/com/itheima/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/target/classes/com/itheima/App2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/target/classes/com/itheima/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/target/classes/com/itheima/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/target/classes/com/itheima/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/target/classes/com/itheima/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_01_quickstart/target/classes/org/example/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2P8BUJfen6yR7LPiO1hCISIm3EB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/XD203/IdeaProjects/spring10_containers",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\XD203\IdeaProjects\spring09_datasource\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppSystemProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.AppSystemProperties" />
+      <module name="spring01_quickstart_DI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppSystemProperties" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df70a9a3-03cf-4667-ac43-e3ecd78b21e2" name="Changes" comment="" />
+      <created>1682828843853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682828843853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

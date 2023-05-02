@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="bookDao" class="com.itheima.dao.impl.BookDaoImpl">
+        <property name="array">
+            <array>
+                <value>100</value>
+                <value>500</value>
+                <value>300</value>
+            </array>
+        </property>
+        <property name="list">
+            <list>
+                <value>wenrunyuan</value>
+                <value>tangyuan</value>
+                <value>hihihi</value>
+                <value>tanxi</value>
+            </list>
+        </property>
+        <property name="set">
+            <set>
+                <value>wenrunyuan</value>
+                <value>tangyuan</value>
+                <value>tangyuan</value>
+                <value>hihihi</value>
+            </set>
+        </property>
+        <property name="map">
+            <map>
+                <entry key="sad" value="20230430"/>
+                <entry key="happy" value="20230429"/>
+            </map>
+        </property>
+        <property name="properties">
+            <props>
+                <prop key="country">China</prop>
+                <prop key="province">Shanxi</prop>
+                <prop key="City">Xian</prop>
+            </props>
+        </property>
+    </bean>
+
+</beans>
